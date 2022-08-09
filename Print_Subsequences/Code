@@ -2,8 +2,7 @@
 using namespace std;
  
 
-// Recursive function to print all
-// possible subsequences for given array
+
 void printSubsequences(int arr[], int index,
                        vector<int> &subarr,int n)
 {
